@@ -2,7 +2,7 @@
 
 这是一个简洁的主题，基于 landscape 主题更改 [Hexo].
 
-- [Preview](http://hexo.io/hexo-theme-landscape/)
+- [yaobinscape](http://yaob421123.github.io/)
 
 ## Installation
 
