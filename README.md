@@ -16,7 +16,7 @@ $ git clone https://github.com/yaob421123/yaobinscape.git themes/yaobinscape
 
 ### Enable
 
-Modify `theme` setting in `_config.yml` to `landscape`.
+Modify `theme` setting in `_config.yml` to `yaobinscape`.
 
 ### Update
 
@@ -54,14 +54,14 @@ twitter:
 google_plus:
 ```
 
-## 注意翻页
+# 注意翻页
 因为本主题没有做翻页的功能。所以在博客跟目录 `_config.yml` 文件中要设置 `per_page: 0` ，设置为 `0` 显示所有文章
 ``` bash
 per_page: 0
 pagination_dir: page
 ```
 
-## 多说评论
+# 多说评论
 注册你自己的多说账号 duoshuo 替换你在根目录`_config.yml` 中的 duoshuo `short_name` 的值，没有在里面设置
 ``` bash
 duoshuo_shortname : short_name
