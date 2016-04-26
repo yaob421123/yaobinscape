@@ -91,5 +91,3 @@ var duoshuoQuery = {short_name:"datoublog"};
   </section>
   <% } %>
 ```
-
-asdadads
